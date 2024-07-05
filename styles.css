@@ -7,8 +7,7 @@ body {
     margin: 0;
     transition: background-color 0.05s ease; 
   }
-  
-  /* Define different background colors */
+
   .color1 { background-color: #ff6347; }
   .color2 { background-color: #4682b4; }
   .color3 { background-color: #32cd32; }
