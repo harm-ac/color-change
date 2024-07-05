@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
       'color71', 'color72', 'color73', 'color74', 'color75', 'color76', 'color77', 'color78', 'color79', 'color80',
       'color81', 'color82', 'color83', 'color84', 'color85', 'color86', 'color87', 'color88', 'color89', 'color90',
       'color91', 'color92', 'color93', 'color94', 'color95', 'color96', 'color97', 'color98', 'color99', 'color100',
-      // and continue adding colors up to color100
     ];
     let currentIndex = 0;
   
@@ -18,11 +17,9 @@ document.addEventListener('DOMContentLoaded', function() {
       document.body.className = colors[currentIndex];
       currentIndex = (currentIndex + 1) % colors.length;
     }
-  
-    // Initial color change
+
     changeBackgroundColor();
-  
-    // Change background color every 1000ms (1 second)
+
     setInterval(changeBackgroundColor, 100);
   });
   
