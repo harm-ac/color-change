@@ -12,14 +12,11 @@ document.addEventListener('DOMContentLoaded', function() {
       'color91', 'color92', 'color93', 'color94', 'color95', 'color96', 'color97', 'color98', 'color99', 'color100',
     ];
     let currentIndex = 0;
-  
     function changeBackgroundColor() {
       document.body.className = colors[currentIndex];
       currentIndex = (currentIndex + 1) % colors.length;
     }
-
     changeBackgroundColor();
-
     setInterval(changeBackgroundColor, 100);
   });
   
