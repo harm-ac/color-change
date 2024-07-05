@@ -1,0 +1,113 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    transition: background-color 0.05s ease; /* Smooth transition effect */
+  }
+  
+  /* Define different background colors */
+  .color1 { background-color: #ff6347; }
+  .color2 { background-color: #4682b4; }
+  .color3 { background-color: #32cd32; }
+  .color4 { background-color: #ff69b4; }
+  .color5 { background-color: #f0e68c; }
+  .color6 { background-color: #87ceeb; }
+  .color7 { background-color: #ffa07a; }
+  .color8 { background-color: #6a5acd; }
+  .color9 { background-color: #20b2aa; }
+  .color10 { background-color: #f08080; }
+  .color11 { background-color: #00ffff; }
+  .color12 { background-color: #7fffd4; }
+  .color13 { background-color: #f5f5dc; }
+  .color14 { background-color: #ffe4c4; }
+  .color15 { background-color: #000000; }
+  .color16 { background-color: #ffebcd; }
+  .color17 { background-color: #0000ff; }
+  .color18 { background-color: #8a2be2; }
+  .color19 { background-color: #a52a2a; }
+  .color20 { background-color: #deb887; }
+  .color21 { background-color: #5f9ea0; }
+  .color22 { background-color: #7fff00; }
+  .color23 { background-color: #d2691e; }
+  .color24 { background-color: #ff7f50; }
+  .color25 { background-color: #6495ed; }
+  .color26 { background-color: #fff8dc; }
+  .color27 { background-color: #dc143c; }
+  .color28 { background-color: #00ffff; }
+  .color29 { background-color: #00008b; }
+  .color30 { background-color: #008b8b; }
+  .color31 { background-color: #b8860b; }
+  .color32 { background-color: #a9a9a9; }
+  .color33 { background-color: #006400; }
+  .color34 { background-color: #bdb76b; }
+  .color35 { background-color: #8b008b; }
+  .color36 { background-color: #556b2f; }
+  .color37 { background-color: #ff8c00; }
+  .color38 { background-color: #9932cc; }
+  .color39 { background-color: #8b0000; }
+  .color40 { background-color: #e9967a; }
+  .color41 { background-color: #8fbc8f; }
+  .color42 { background-color: #483d8b; }
+  .color43 { background-color: #2f4f4f; }
+  .color44 { background-color: #00ced1; }
+  .color45 { background-color: #9400d3; }
+  .color46 { background-color: #ff1493; }
+  .color47 { background-color: #00bfff; }
+  .color48 { background-color: #696969; }
+  .color49 { background-color: #1e90ff; }
+  .color50 { background-color: #b22222; }
+  .color51 { background-color: #fffaf0; }
+  .color52 { background-color: #228b22; }
+  .color53 { background-color: #ff00ff; }
+  .color54 { background-color: #dcdcdc; }
+  .color55 { background-color: #f8f8ff; }
+  .color56 { background-color: #ffd700; }
+  .color57 { background-color: #daa520; }
+  .color58 { background-color: #808080; }
+  .color59 { background-color: #008000; }
+  .color60 { background-color: #adff2f; }
+  .color61 { background-color: #f0fff0; }
+  .color62 { background-color: #ff69b4; }
+  .color63 { background-color: #cd5c5c; }
+  .color64 { background-color: #4b0082; }
+  .color65 { background-color: #fffff0; }
+  .color66 { background-color: #f0e68c; }
+  .color67 { background-color: #e6e6fa; }
+  .color68 { background-color: #fff0f5; }
+  .color69 { background-color: #7cfc00; }
+  .color70 { background-color: #fffacd; }
+  .color71 { background-color: #add8e6; }
+  .color72 { background-color: #f08080; }
+  .color73 { background-color: #e0ffff; }
+  .color74 { background-color: #fafad2; }
+  .color75 { background-color: #d3d3d3; }
+  .color76 { background-color: #90ee90; }
+  .color77 { background-color: #ffb6c1; }
+  .color78 { background-color: #ffa07a; }
+  .color79 { background-color: #20b2aa; }
+  .color80 { background-color: #87cefa; }
+  .color81 { background-color: #778899; }
+  .color82 { background-color: #b0c4de; }
+  .color83 { background-color: #ffffe0; }
+  .color84 { background-color: #00ff00; }
+  .color85 { background-color: #32cd32; }
+  .color86 { background-color: #faf0e6; }
+  .color87 { background-color: #ff00ff; }
+  .color88 { background-color: #800000; }
+  .color89 { background-color: #66cdaa; }
+  .color90 { background-color: #0000cd; }
+  .color91 { background-color: #ba55d3; }
+  .color92 { background-color: #9370db; }
+  .color93 { background-color: #3cb371; }
+  .color94 { background-color: #7b68ee; }
+  .color95 { background-color: #00fa9a; }
+  .color96 { background-color: #48d1cc; }
+  .color97 { background-color: #c71585; }
+  .color98 { background-color: #191970; }
+  .color99 { background-color: #f5fffa; }
+  .color100 { background-color: #ffe4e1; }
+  /* and so on for colors 101 to 100 */
+  
