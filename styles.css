@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    transition: background-color 0.05s ease; /* Smooth transition effect */
+    transition: background-color 0.05s ease; 
   }
   
   /* Define different background colors */
@@ -109,5 +109,4 @@ body {
   .color98 { background-color: #191970; }
   .color99 { background-color: #f5fffa; }
   .color100 { background-color: #ffe4e1; }
-  /* and so on for colors 101 to 100 */
   
